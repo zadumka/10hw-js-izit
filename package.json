@@ -1,11 +1,11 @@
 {
-  "name": "vanilla-app-template",
+  "name": "10hw-js-izitoast",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/goit-js-hw-10/",
+    "build": "vite build --base=/10hw-js-izitoast",
     "preview": "vite preview"
   },
   "devDependencies": {
