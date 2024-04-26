@@ -1,11 +1,11 @@
 {
-  "name": "10hw-js-izitoast",
+  "name": "10hw-js-izit",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/10hw-js-izitoast/",
+    "build": "vite build --base=/10hw-js-izit/",
     "preview": "vite preview"
   },
   "devDependencies": {
