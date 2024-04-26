@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/10hw-js-izitoast",
+    "build": "vite build --base=/10hw-js-izitoast/",
     "preview": "vite preview"
   },
   "devDependencies": {
